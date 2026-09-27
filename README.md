@@ -204,23 +204,23 @@ If you want to use the Hostinger coupon code but don't know how, then this quick
 
 First, you need to come to this page and find the Hostinger coupon code in the screenshot. Then copy the Hostinger coupon code and visit the Hostinger website by clicking on the Visit Hostinger button.
 
-![Hostinger coupon code location](images/hostinger-coupon-code-location.png)(https://couponforhost.com/hostinger)
+[![Hostinger coupon code location](images/hostinger-coupon-code-location.png)](https://couponforhost.com/hostinger)
 
 When you click on the "Visit Hostinger" button, you'll be redirected to the Hostinger home page. After being redirected to Hostinger.com, you have to click on the Get Started button.
 
-![Hostinger homepage](images/hostinger-homepage.png)(https://couponforhost.com/hostinger)
+[![Hostinger homepage](images/hostinger-homepage.png)](https://couponforhost.com/hostinger)
 
 Now choose the right web hosting plan that is suitable for you. If you're just starting, then you can go with the Premium plan, but if you have a large website or e-commerce store, then you’ll go with the Cloud Startup plan.
 
-![Hostinger hosting plans](images/hostinger-hosting-plans.png)(https://couponforhost.com/hostinger)
+[![Hostinger hosting plans](images/hostinger-hosting-plans.png)](https://couponforhost.com/hostinger)
 
 Then you'll come to the Hostinger Cart page. Now click on the "Have a coupon code?" text as in the screenshot.
 
-![Hostinger cart](images/hostinger-cart.png)(https://couponforhost.com/hostinger)
+[![Hostinger cart](images/hostinger-cart.png)](https://couponforhost.com/hostinger)
 
 Now you can see that the coupon paste box will appear. Paste your coupon code and get up to 91% off at checkout on Hostinger.
 
-![Hostinger coupon code box](images/hostinger-coupon-box.png)(https://couponforhost.com/hostinger)
+[![Hostinger coupon code box](images/hostinger-coupon-box.png)](https://couponforhost.com/hostinger)
 
 ---
 
@@ -230,7 +230,7 @@ Let's break down the Hostinger plan and give a quick overview of what the plan o
 
 ### 1. Web Hosting
 
-![Hostinger web hosting plans](images/hostinger-web-hosting-plans.png)
+[![Hostinger web hosting plans](images/hostinger-web-hosting-plans.png)](https://couponforhost.com/hostinger)
 
 - **Price Plan:** Hostinger web hosting plans start at $2.99/month and go up to $7.99/month for the Cloud Startup plan.
 - **Targeted Customer:** If anyone is just starting their online journey, then Hostinger's basic web hosting plan is perfect for them.
@@ -238,7 +238,7 @@ Let's break down the Hostinger plan and give a quick overview of what the plan o
 
 ### 2. WordPress Hosting
 
-![Hostinger WordPress hosting plans](images/hostinger-wordpress-hosting-plans.png)
+[![Hostinger WordPress hosting plans](images/hostinger-wordpress-hosting-plans.png)](https://couponforhost.com/hostinger)
 
 - **Price Plan:** Hostinger WordPress hosting plan starts at the same price as basic web hosting, which is $2.99/month, and goes up to $7.99/month for the Cloud Startup plan.
 - **Targeted Customer:** If you want to create your dream WordPress website with the most popular WordPress CMS, then Hostinger WordPress hosting is the right option for you.
@@ -246,7 +246,7 @@ Let's break down the Hostinger plan and give a quick overview of what the plan o
 
 ### 3. Cloud Hosting
 
-![Hostinger Cloud hosting plans](images/hostinger-cloud-hosting-plans.png)
+[![Hostinger Cloud hosting plans](images/hostinger-cloud-hosting-plans.png)](https://couponforhost.com/hostinger)
 
 - **Price Plan:** Hostinger, one of the most powerful web hosting plans for Cloud startups, starts at $7.99/month and goes up to $29.99/month for the Cloud Enterprise plan.
 - **Targeted Customer:** If you want more power, more server resources, and more control over your website, then Hostinger cloud hosting is the perfect fit for you.
@@ -254,7 +254,7 @@ Let's break down the Hostinger plan and give a quick overview of what the plan o
 
 ### 4. VPS Hosting
 
-![Hostinger VPS hosting plans](images/hostinger-vps-hosting-plans.png)
+[![Hostinger VPS hosting plans](images/hostinger-vps-hosting-plans.png)](https://couponforhost.com/hostinger)
 
 - **Price Plan:** Hostinger's most powerful VPS hosting plan starts at $4.99/month and goes up to $19.99/month for their KVM8 plan.
 - **Targeted Customer:** VPS hosting provides full control over your server. So, if you are someone who needs more control over your website, then go with Hostinger VPS hosting.
@@ -262,7 +262,7 @@ Let's break down the Hostinger plan and give a quick overview of what the plan o
 
 ### 5. Hostinger AI Website Builder
 
-![Hostinger AI website builder plans](images/hostinger-ai-website-builder.png)
+[![Hostinger AI website builder plans](images/hostinger-ai-website-builder.png)](https://couponforhost.com/hostinger)
 
 - **Price Plan:** Hostinger AI website builder has two pricing plans, one for $2.99/month and one for $7.99/month
 - **Targeted Customer:** If anyone wants to start their website with AI, then Hostinger AI website builder is the right option for them.
@@ -272,7 +272,7 @@ Let's break down the Hostinger plan and give a quick overview of what the plan o
 
 ## Hostinger Short Review
 
-![Hostinger homepage](images/hostinger-review-homepage.png)
+[![Hostinger homepage](images/hostinger-review-homepage.png)](https://couponforhost.com/hostinger)
 
 Hostinger is one of the most powerful web hosting providers all over the world, well known for providing affordable web hosting solutions.
 

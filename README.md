@@ -1,6 +1,6 @@
 # Hostinger Coupon Code & Promo (89% OFF) October 2026
 
-**SEO Description for Search Results:** Latest Hostinger coupon codes, promo offers, discounts, and hosting deals for October 2026.
+Latest Hostinger coupon codes, promo offers, discounts, and hosting deals for October 2026.
 
 **Last Update:** 1 October 2026
 

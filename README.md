@@ -4,7 +4,7 @@
 
 Latest Hostinger coupon codes, promo offers, discounts, and hosting deals for October 2026.
 
-**Last Update:** 1 October 2026
+**Last Update:** 30 September 2026
 
 Welcome to CouponForHost’s official best Hostinger Coupon Code article! I'm Eftekharul (Founder of CouponForHost) & finally collaborated officially with Hostinger.
 
